@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    I’m currently employee as a Software Developer in Georgetown, Guyana. 
+    I’m currently employed as a Software Developer in Georgetown, Guyana. 
 </p>
 
 <h2 align="center">Tools & Technologies I've Used</h2>
