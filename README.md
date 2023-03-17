@@ -55,9 +55,11 @@
 
 <h2 align="center">Top Repos</h2>
 
-<a href="https://github.com/ridwanazeez/ridwanazeez.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez.github.io&theme=dracula" />
-</a>
-<a href="https://github.com/ridwanazeez/ridwanazeez">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez&theme=dracula" />
-</a>
+<p align="center">
+    <a href="https://github.com/ridwanazeez/ridwanazeez.github.io">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez.github.io&theme=dracula" />
+    </a>
+    <a href="https://github.com/ridwanazeez/ridwanazeez">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez&theme=dracula" />
+    </a>
+</p>
