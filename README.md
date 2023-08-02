@@ -62,7 +62,10 @@
     <a href="https://github.com/ridwanazeez/ridwanazeez">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez&theme=dracula" />
     </a>
-        <a href="https://github.com/ridwanazeez/vehicle-import-calculator">
+    <a href="https://github.com/ridwanazeez/vehicle-import-calculator">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=vehicle-import-calculator&theme=dracula" />
+    </a>
+    <a href="https://github.com/ridwanazeez/salary-calculator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=salary-calculator&theme=dracula" />
     </a>
 </p>
