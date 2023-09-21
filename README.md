@@ -42,7 +42,7 @@
 <h2 align="center">Cool Stats Cards</h2>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanazeez&theme=tokyonight&hide=html,css"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanazeez&theme=tokyonight"></img>
 </p>
 
 <p align="center">
