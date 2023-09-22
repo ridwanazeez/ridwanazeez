@@ -52,20 +52,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ridwanazeez&theme=tokyonight&hide_border=true&mode=daily"></img>
 </p>
-
-<h2 align="center">Top Repos</h2>
-
-<p align="center">
-    <a href="https://github.com/ridwanazeez/ridwanazeez.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez.github.io&theme=dracula" />
-    </a>
-    <a href="https://github.com/ridwanazeez/ridwanazeez">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez&theme=dracula" />
-    </a>
-    <a href="https://github.com/ridwanazeez/vehicle-import-calculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=vehicle-import-calculator&theme=dracula" />
-    </a>
-    <a href="https://github.com/ridwanazeez/salary-calculator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=salary-calculator&theme=dracula" />
-    </a>
-</p>
