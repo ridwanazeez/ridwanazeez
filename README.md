@@ -39,7 +39,7 @@
     <a href="https://www.instagram.com/ridwanazeez/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
-<h2 align="center">Cool Stats Cards</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanazeez&theme=tokyonight"></img>
