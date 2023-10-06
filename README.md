@@ -32,6 +32,9 @@
     <a href="https://tailwindcss.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
     <a href="https://vuejs.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></a>
+</p>
+
+<p align="center">
     <a href="https://wordpress.org/" target="_blank"><img align="center" src="https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/></a>
 </p>
 
