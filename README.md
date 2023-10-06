@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=ridwanazeez&style=for-the-badge">
-
 <h1 align="center">
     Hi there 👋 
 </h1>
@@ -52,6 +50,7 @@
     <a href="https://github.com/ridwanazeez/salary-calculator" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=salary-calculator&theme=tokyonight&hide_border=true"></img></a>
     <a href="https://github.com/ridwanazeez/vehicle-import-calculator" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=vehicle-import-calculator&theme=tokyonight&hide_border=true"></img></a>
     <a href="https://github.com/ridwanazeez/colourpalettes" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=colourpalettes&theme=tokyonight&hide_border=true"></img></a>
+    <a href="https://github.com/ridwanazeez/ridwanazeez" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez&theme=tokyonight&hide_border=true"></img></a>
     <a href="https://github.com/ridwanazeez/colourpalettes-JSON" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=colourpalettes-JSON&theme=tokyonight&hide_border=true"></img></a>
 </p>
 
