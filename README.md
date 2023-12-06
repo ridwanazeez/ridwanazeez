@@ -50,14 +50,5 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/ridwanazeez/ridwanazeez.github.io" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez.github.io&theme=tokyonight&hide_border=true"></img></a>
-    <a href="https://github.com/ridwanazeez/salary-calculator" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=salary-calculator&theme=tokyonight&hide_border=true"></img></a>
-    <a href="https://github.com/ridwanazeez/vehicle-import-calculator" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=vehicle-import-calculator&theme=tokyonight&hide_border=true"></img></a>
-    <a href="https://github.com/ridwanazeez/colourpalettes" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=colourpalettes&theme=tokyonight&hide_border=true"></img></a>
-    <a href="https://github.com/ridwanazeez/ridwanazeez" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=ridwanazeez&theme=tokyonight&hide_border=true"></img></a>
-    <a href="https://github.com/ridwanazeez/colourpalettes-JSON" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ridwanazeez&repo=colourpalettes-JSON&theme=tokyonight&hide_border=true"></img></a>
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanazeez&theme=tokyonight&hide_border=true&layout=donut"></img>
 </p>
