@@ -4,7 +4,6 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ridwanazeez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-    <a href="https://www.twitter.com/unsyncedemotion/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
     <a href="https://www.instagram.com/ridwanazeez/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
