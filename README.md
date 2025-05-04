@@ -8,7 +8,7 @@
 </p>
 
 <p>
-    My name is Ridwan Azeez. I’m currently employed as a Software Developer in Georgetown, Guyana and I'm always trying to continuously improve my programming knowledge 😄
+    My name is Ridwan Azeez. I’m currently employed as a Software Developer in Georgetown, Guyana and I'm always trying to improve my programming knowledge 😄
 </p>
 
 ## Tools & Technologies I've Used
